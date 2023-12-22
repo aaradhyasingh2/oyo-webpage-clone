@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const NotifyItem = () => {
     return (
-        <div className="flex my-14 justify-between items-center border-2 rounded border-gray-300">
+        <div className="flex my-14 justify-between items-center border-2 rounded border-gray-300 mb-5">
             <div className="flex items-center">
                 <Image src={"/fire.jpg"} alt='fireimg' width={200} height={200} className='w-20 h-20 rounded-full mr-5' />
                 <div className='text-lg'>
