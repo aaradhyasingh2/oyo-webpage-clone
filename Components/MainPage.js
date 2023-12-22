@@ -42,7 +42,7 @@ const MainPage = () => {
         {/* img area div below */}
         <div className="flex ml-20 flex-col pt-5">
           <div className='flex'>
-            <Image src={'/UAE.avif'} alt='img' width={200} height={200} className='w-28 h-32 mt-16 ml-5'/>
+            <Image src={'/UAE.avif'} alt='img' width={200} height={200} className='w-28 h-32 mt-16 ml-5' />
             <Image src={'/nepal.avif'} alt='img' width={200} height={200} className='w-32 h-32 mt-4 ml-16' />
             <Image src={'/china.avif'} alt='img' width={200} height={200} className='w-28 h-32 -mt-5 ml-10' />
           </div>
