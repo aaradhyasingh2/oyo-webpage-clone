@@ -3,7 +3,6 @@ import React from 'react'
 const Login = () => {
   return (
     <>
-      {/* <h1 className='text-white flex gap-2 text-lg font-bold'><span className='font-extrabold text-5xl'>OYO</span> Hotels and homes across 800 cities, 24+ countries</h1> */}
       <div className="flex items-center justify-center h-screen relative bg-login-background bg-no-repeat bg-cover">
         <div className="absolute w-full top-5 px-12 flex items-center text-white">
           <h1 className='text-4xl font-extrabold mr-3'>OYO</h1>
