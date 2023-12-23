@@ -41,7 +41,7 @@ const Footer = () => {
           </ul>
         </div>
         {/* termconditionsection */}
-        <div className='flex my-5 pr-5 border-r-2 border-gray-200'>
+        <div className='flex my-5 pr-5'>
           <ul>
             <li className='pr-10 cursor-pointer pb-2 hover:underline'>Terms and conditions</li>
             <li className='pr-10 cursor-pointer pb-2 hover:underline'>Guest Policies</li>
